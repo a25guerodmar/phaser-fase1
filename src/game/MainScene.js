@@ -30,12 +30,12 @@ export class MainScene extends Phaser.Scene {
 
     this.etiqueta.setPosition(
       this.avatar.x,
-      this.avatar.y - 38
+      this.avatar.y - 58
     );
 
     this.textEstat.setPosition(
       this.avatar.x,
-      this.avatar.y - 18
+      this.avatar.y - 36
     );
 
   }
