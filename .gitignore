@@ -1,0 +1,23 @@
+# Dependencias
+node_modules
+
+# Archivos de producción / compilación
+dist
+dist-ssr
+*.local
+
+# Archivos de registro (Logs)
+logs
+*.log
+npm-debug.log*
+
+# Editores y Sistema Operativo
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+
+# Variables de entorno sensibles
+.env
+.env.local
